@@ -1,17 +1,16 @@
 # Assignment 2  
-## Comparative Analysis of Closures in Python, JavaScript, and C++
+## Repository Contents
 
-## Overview
+- `python_closure.py` — Demonstrates scopes and closures in Python.
+- `javascript_closure.js` — Demonstrates scopes and closures in JavaScript.
+- `cplus_closure.cpp` — Demonstrates closures in C++ using lambda expressions.
 
-This project compares how Python, JavaScript, and C++ handle scopes and closures.
-
-A closure allows an inner function to remember and access variables from its outer function even after the outer function has finished executing.
-
-The same closure program is implemented in:
-- Python
-- JavaScript
-- C++
+- `rust_memorymgmnt.rs` — Demonstrates ownership and borrowing in Rust.
+- `java_memory_mgmnt.java` — Demonstrates garbage collection in Java.
+- `cpp_memory_mgmnt.cpp` — Demonstrates manual memory management in C++.
 
 ---
 
+## Assignment Summary
 
+This assignment compares syntax, semantics, closures, and memory management across multiple programming languages. The programs demonstrate how Python, JavaScript, and C++ handle scopes and closures, and how Rust, Java, and C++ manage dynamic memory allocation and cleanup differently.
